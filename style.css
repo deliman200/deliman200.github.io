@@ -110,12 +110,14 @@ section#banner{
 		.emnailForm input{
 			float:left;
 			width:320px;
+			height:64px;
 		}
 		.emnailForm .btn-default{
 			float:left;
 			margin-left:8px;
 			background-color: #FF9700;
 			color:#fff;
+			height:64px;
 		}
 
 		.imgMacbook img{
