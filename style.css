@@ -184,6 +184,7 @@ section#mid{
 		clear:both;
 		overflow: hidden;
 		margin-bottom:20px;
+		vertical-align: top;
 	}
 
 		.box:nth-child(2) h1{
@@ -217,7 +218,6 @@ section#mid{
 		line-height: 30px;
 		padding-top:20px;
 		text-align: left;
-		vertical-align: top;
 	}
 
 section#footer{
