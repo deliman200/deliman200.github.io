@@ -217,6 +217,7 @@ section#mid{
 		line-height: 30px;
 		padding-top:20px;
 		text-align: left;
+		vertical-align: top;
 	}
 
 section#footer{
