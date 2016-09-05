@@ -171,7 +171,8 @@ section#mid{
 
 	.box{
 		width:20%;
-		height:400px;
+		height:auto;
+		min-height:400px;
 		background: #FFFFFF;
 		border: 1px solid #C7DADA;
 		border-radius: 4px;

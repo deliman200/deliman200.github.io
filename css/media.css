@@ -44,6 +44,7 @@ and (max-width : 800px) {
 
 	.box{
 		margin-right:0px;
+		width:40%;
 	}
 
 	.footerForm{
@@ -66,6 +67,7 @@ and (max-width : 500px) {
 
 	.box, .box h1, .box p{
 		text-align:center;
+		width:100%;
 	}
 }
 
